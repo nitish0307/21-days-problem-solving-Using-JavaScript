@@ -1,0 +1,7 @@
+Type: Visiting
+Employee ID: 211
+Employee Name: Ritesh
+Daily Wages: 400
+Number of Days: 30
+Salary: 12000
+----------------------------------

@@ -9,4 +9,4 @@ function splitNumberIntoDigits(n) {
 }
 
 // Example:
-console.log(splitNumberIntoDigits(12345)); // [1, 2, 3, 4, 5]
+console.log(splitNumberIntoDigits(12345789)); // [1, 2, 3, 4, 5]
