@@ -11,7 +11,7 @@ function splitNumberIntoDigits(n) {
 // Example:
 console.log(splitNumberIntoDigits(12345789)); // [1, 2, 3, 4, 5]
 
-console.log("it's just to maintain the streak");
+console.log("oops! it's just to maintain the streak");
 console.log("it's just to maintain the streak again");
 console.log("it's day 3 of me doing nothing to commit");
 console.log("it's the last day of me doing nothing");
