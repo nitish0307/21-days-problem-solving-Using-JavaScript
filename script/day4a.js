@@ -15,3 +15,4 @@ console.log("oops! it's just to maintain the streak");
 console.log("it's just to maintain the streak again");
 console.log("it's day 3 of me doing nothing to commit");
 console.log("it's the last day of me doing nothing");
+console.log("First day at Ltimindtree was good");
